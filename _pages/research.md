@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 Papers Under Review:
+
 Sophisticated, Yet Biased? The Role of Political Sophistication and Partisan Strength on Perceptions of Party Positions and Projection Effects, Revise and Resubmit.
 
 Working Papers:
