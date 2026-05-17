@@ -8,11 +8,9 @@ nav_order: 6
 calendar: true
 ---
 
-This page includes all the courses I taught.
+I teach courses both in substantive topics of comparative politics and quantitative methods. 
 
 <!-- {% include courses.liquid %} -->
-
-I teach courses both in substantive topics of comparative politics and quantitative methods. 
 
 Political Representation, Public Opinion, and Electoral Behaviour. Undergraduate course. Taught at the University of Vienna. Spring 2026. 
 
