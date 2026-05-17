@@ -27,7 +27,8 @@ profile:
 // limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi,
-I am a PhD Candidate at the <a href='https://staatswissenschaft.univie.ac.at/en/about-us/scientific-staff/beatriz-lasheras-mas/'>Department of Government,  University of Vienna</a>. I study how people perceive political actors and events, how these perceptions shape their attitudes and behaviour, and the implications for political representation and accountability.
+I am a PhD Candidate at the <a href='https://staatswissenschaft.univie.ac.at/en/about-us/scientific-staff/beatriz-lasheras-mas/'>Department of Government,  University of Vienna</a>. 
+
+I study how people perceive political actors and events, how these perceptions shape their attitudes and behaviour, and the implications for political representation and accountability.
 
 My approach is comparative, with a geographical focus on European democracies. I employ quantitative methods, particularly cross-sectional and panel survey data, and survey experiments.
