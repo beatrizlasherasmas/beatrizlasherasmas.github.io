@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
       <p>Kolingasse 14-16<br>
-      1090 Wien</p>
-       Room: 06.38<br>
+      </p>1090 Vienna
+      </p>Room: 06.38<br>
       <p>beatriz.lasheras.mas@univie.ac.at</p>
 
 //selected_papers: true # includes a list of papers marked as "selected={true}"
