@@ -8,7 +8,7 @@ nav_order: 6
 calendar: true
 ---
 
-I teach courses both in substantive topics of comparative politics and quantitative methods. 
+I teach courses in both substantive topics of comparative politics and quantitative methods.
 
 <!-- {% include courses.liquid %} -->
 
