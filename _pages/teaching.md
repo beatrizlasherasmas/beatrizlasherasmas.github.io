@@ -11,3 +11,5 @@ calendar: true
 This page includes all the courses I taught.
 
 <!-- {% include courses.liquid %} -->
+
+Course 1
