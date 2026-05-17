@@ -29,5 +29,3 @@ profile:
 
 Hi,
 I am Beatriz and I am currently a PhD student at the <a href='https://staatswissenschaft.univie.ac.at/en/about-us/scientific-staff/beatriz-lasheras-mas/'>Department of Government of the University of Vienna</a>
-
-<a href="assets/pdf/cv.pdf" target="_blank">PDF version of CV</a>
