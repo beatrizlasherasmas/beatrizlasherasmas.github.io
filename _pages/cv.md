@@ -6,4 +6,4 @@ nav: true
 nav_order: 5
 description:
 ---
-Download my <a href="../assets/pdf/cv.pdf" target="_blank">curriculum vitae</a>
+Download my <a href="../assets/pdf/Lasheras-Mas_CV.pdf" target="_blank">curriculum vitae</a>
