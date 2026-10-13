@@ -17,7 +17,7 @@ I teach courses in both substantive topics of comparative politics and quantitat
 <!-- {% include courses.liquid %} -->
 ## Workshops
 
-**One-day Introduction to R Workshop.** University of Graz. October 2026.
+**One-day Introduction to R Workshop.** Taught at the University of Graz. October 2026.
 
 ## Bachelor Courses
 
