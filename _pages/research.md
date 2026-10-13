@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 <style>
+  h2 { font-size: 1.4rem; margin-top: 2rem; margin-bottom: 1rem; }
   .paper { margin-bottom: 1.6rem; }
   .paper-title { font-weight: 600; }
   .paper-meta { font-style: italic; }
@@ -37,6 +38,7 @@ nav_order: 2
 </style>
 
 <h2>Papers Under Review</h2>
+
 
 <div class="paper">
   <div class="paper-title">Sophisticated, Yet Biased? The Role of Political Sophistication and Partisan Strength on Perceptions of Party Positions and Projection Effects</div>
