@@ -40,7 +40,7 @@ nav_order: 2
 
 <h2>Papers Under Review</h2>
 
-
+<div class="paper">
   <div class="paper-title">Sophisticated, Yet Biased? The Role of Political Sophistication and Partisan Strength on Perceptions of Party Positions and Projection Effects. <span class="paper-status">Revise and Resubmit.</span></div>
   <details>
     <summary>Abstract</summary>
@@ -50,6 +50,7 @@ nav_order: 2
   </details>
 </div>
 
+<div class="paper">
   <div class="paper-title">They Find a Way: Relative Perceptions of Party Issue Positions and Voter-Party Congruence. <span class="paper-status">Under Review.</span></div>
   <details>
     <summary>Abstract</summary>
