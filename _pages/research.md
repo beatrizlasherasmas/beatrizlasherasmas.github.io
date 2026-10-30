@@ -38,17 +38,20 @@ nav_order: 2
   }
 </style>
 
-<h2>Papers Under Review</h2>
+<h2>Peer-reviewed Publications</h2>
 
 <div class="paper">
-  <div class="paper-title">Sophisticated, Yet Biased? The Role of Political Sophistication and Partisan Strength on Perceptions of Party Positions and Projection Effects. <span class="paper-status">Revise and Resubmit.</span></div>
+  <div class="paper-title">Sophisticated, Yet Biased? The Role of Political Sophistication and Partisan Strength in Perceptions of Party Positions and Projection Effects</div>
+  <div class="paper-meta">Forthcoming in <span class="paper-status"><em>Journal of Elections, Public Opinion and Parties.</em></span></div>
   <details>
     <summary>Abstract</summary>
     <div class="abstract-text">
-      The accuracy of voters’ perceptions of party positions is central to democratic choice and accountability. However, some citizens are more accurate than others. Political sophistication increases accuracy, while strong party identification reduces it. But how do they interact? Prior research on other political domains offers mixed answers. Understanding this interaction in perceptions of party positions is crucial, as sophistication could either mitigate or amplify partisan bias, and misperceiving party positions can exacerbate dissatisfaction with democracy and affective polarisation. Using data from the 2019 European Election Study across 28 countries, I test whether political sophistication moderates the effect of partisan strength on perceptions of party positions on the left-right and EU integration dimensions. I find no evidence of moderation. Sophistication and partisan strength have independent effects. Sophistication reliably increases accuracy, while partisan strength reduces it. Projection effects help explain why: partisans project their own views onto parties, regardless of their political sophistication. Thus, political sophistication improves accuracy by greater information processing and/or cognitive ability rather than by reducing projection bias.
+      The accuracy of voters’ perceptions of party positions … rather than by reducing projection bias.
     </div>
   </details>
 </div>
+
+<h2>Papers Under Review</h2>
 
 <div class="paper">
   <div class="paper-title">They Find a Way: Relative Perceptions of Party Issue Positions and Voter-Party Congruence. <span class="paper-status">Under Review.</span></div>
